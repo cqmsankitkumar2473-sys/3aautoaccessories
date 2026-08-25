@@ -1,0 +1,6 @@
+{
+  "name": "3A Auto Accessories",
+  "description": "Premium automotive accessories, custom styling, car electronics, lighting, and interior upgrades with direct WhatsApp enquiry and vehicle fitment finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
